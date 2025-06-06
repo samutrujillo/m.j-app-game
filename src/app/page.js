@@ -103,7 +103,7 @@ export default function MesaSelection() {
       {showAudioConsent && (
         <div className="audio-consent-overlay">
           <div className="audio-consent-modal">
-            <h3>¡Bienvenido a FTAPPGAME!</h3>
+            <h3>¡Bienvenido a M.J APPGAME!</h3>
             <p>Para una mejor experiencia, recomendamos activar el sonido.</p>
             <p className="audio-warning">
               ⚠️ Las políticas de tu navegador requieren tu permiso para reproducir audio.
