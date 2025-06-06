@@ -73,10 +73,10 @@ export default function MesaSelection() {
         url = 'https://juegomemoriacliente3.onrender.com/';
         break;
       case 'ROYAL':
-        url = 'https://juego-memoria-cliente1.onrender.com';
+        url = 'https://juegomemoriacliente4.onrender.com/';
         break;
       case 'GOLD':
-        url = 'https://juego-memoria-cliente2.onrender.com';
+        url = 'https://juegomemoriacliente5.onrender.com/';
         break;
       default:
         url = '/';
