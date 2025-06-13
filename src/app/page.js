@@ -70,13 +70,13 @@ export default function MesaSelection() {
     
     switch(mesaType) {
       case 'VIP':
-        url = 'https://juegomemoriacliente3.onrender.com/';
+        url = 'https://juegomemoriacliente3-yk6i.onrender.com/';
         break;
       case 'ROYAL':
-        url = 'https://juegomemoriacliente4.onrender.com/';
+        url = 'https://juegomemoriacliente4-sqz8.onrender.com/';
         break;
       case 'GOLD':
-        url = 'https://juegomemoriacliente5.onrender.com/';
+        url = 'https://juegomemoriacliente5-dfzg.onrender.com';
         break;
       default:
         url = '/';
@@ -86,9 +86,9 @@ export default function MesaSelection() {
   };
 
   const mesas = [
-    { id: 1, nombre: "MESA VIP", tipo: "VIP", valor: "16.000", colorClass: "mesa-vip" },
-    { id: 2, nombre: "MESA ROYAL", tipo: "ROYAL", valor: "20.000", colorClass: "mesa-royal" },
-    { id: 3, nombre: "MESA GOLD", tipo: "GOLD", valor: "30.000", colorClass: "mesa-gold" }
+    { id: 1, nombre: "MESA VIP", tipo: "VIP", valor: "15.000", colorClass: "mesa-vip" },
+    { id: 2, nombre: "MESA ROYAL", tipo: "ROYAL", valor: "10.000", colorClass: "mesa-royal" },
+    { id: 3, nombre: "MESA GOLD", tipo: "GOLD", valor: "5.000", colorClass: "mesa-gold" }
   ];
 
   return (
