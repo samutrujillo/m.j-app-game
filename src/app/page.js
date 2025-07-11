@@ -31,13 +31,13 @@ export default function MesaSelection() {
     
     switch(mesaType) {
       case 'VIP':
-        url = 'https://juegomemoriacliente3-yk6i.onrender.com/';
+        url = 'https://ftappgame2.netlify.app/';
         break;
       case 'ROYAL':
-        url = 'https://juegomemoriacliente4-sqz8.onrender.com/';
+        url = 'https://ftappgame1.netlify.app/';
         break;
       case 'GOLD':
-        url = 'https://juegomemoriacliente5-dfzg.onrender.com';
+        url = 'https://ftappgame.netlify.app/';
         break;
       default:
         url = '/';
