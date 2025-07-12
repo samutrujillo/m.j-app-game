@@ -37,7 +37,7 @@ export default function MesaSelection() {
         url = 'https://ftappgame1.netlify.app/';
         break;
       case 'GOLD':
-        url = 'https://ftappgame.netlify.app/';
+        url = 'https://mjappgame.netlify.app/';
         break;
       default:
         url = '/';
