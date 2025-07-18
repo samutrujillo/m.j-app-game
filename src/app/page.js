@@ -31,10 +31,10 @@ export default function MesaSelection() {
     
     switch(mesaType) {
       case 'VIP':
-        url = 'https://ftappgame2.netlify.app/';
+        url = 'https://mjappgame-mesa-vip.netlify.app/';
         break;
       case 'ROYAL':
-        url = 'https://ftappgame1.netlify.app/';
+        url = 'https://mjappgame-mesa-royal.netlify.app/';
         break;
       case 'GOLD':
         url = 'https://mjappgame.netlify.app/';
